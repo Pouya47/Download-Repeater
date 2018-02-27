@@ -1,0 +1,10 @@
+C:\Users\rp00722p\Documents\Visual Studio 2017\Projects\Padvish Updater\Padvish Updater\bin\Debug\Padvish Updater.exe.config
+C:\Users\rp00722p\Documents\Visual Studio 2017\Projects\Padvish Updater\Padvish Updater\bin\Debug\Padvish Updater.exe
+C:\Users\rp00722p\Documents\Visual Studio 2017\Projects\Padvish Updater\Padvish Updater\bin\Debug\Padvish Updater.pdb
+C:\Users\rp00722p\Documents\Visual Studio 2017\Projects\Padvish Updater\Padvish Updater\obj\Debug\Padvish Updater.csprojResolveAssemblyReference.cache
+C:\Users\rp00722p\Documents\Visual Studio 2017\Projects\Padvish Updater\Padvish Updater\obj\Debug\Padvish_Updater.Properties.Resources.resources
+C:\Users\rp00722p\Documents\Visual Studio 2017\Projects\Padvish Updater\Padvish Updater\obj\Debug\Padvish Updater.csproj.GenerateResource.Cache
+C:\Users\rp00722p\Documents\Visual Studio 2017\Projects\Padvish Updater\Padvish Updater\obj\Debug\Padvish Updater.csproj.CoreCompileInputs.cache
+C:\Users\rp00722p\Documents\Visual Studio 2017\Projects\Padvish Updater\Padvish Updater\obj\Debug\Padvish Updater.exe
+C:\Users\rp00722p\Documents\Visual Studio 2017\Projects\Padvish Updater\Padvish Updater\obj\Debug\Padvish Updater.pdb
+C:\Users\rp00722p\Documents\Visual Studio 2017\Projects\Padvish Updater\Padvish Updater\obj\Debug\Padvish_Updater.frmDownloader.resources

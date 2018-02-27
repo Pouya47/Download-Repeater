@@ -1,0 +1,7 @@
+08/12/1396 01:25:39 ب.ظ	Download Repeater Starts
+08/12/1396 01:25:54 ب.ظ	Download Repeater closed
+08/12/1396 01:28:46 ب.ظ	Download Repeater Starts
+08/12/1396 01:28:48 ب.ظ	Download Repeater closed
+08/12/1396 01:30:54 ب.ظ	Download Repeater Starts
+08/12/1396 01:30:54 ب.ظ	Settings loaded
+08/12/1396 01:30:58 ب.ظ	Download Repeater closed
