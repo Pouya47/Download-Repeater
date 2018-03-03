@@ -168,7 +168,7 @@ namespace Download_Repeater
             //Move complete file to download folder
             File.Delete(textBoxSavePath.Text + "/" + fileName);
             File.Move(Path.GetTempPath() + "/" + fileName, textBoxSavePath.Text+"/"+fileName);
-            writelog("Update file moved to update folder.");
+            writelog("Download file moved to save path folder.");
         }
         /// </summary>
         /// <param name="hreflink"></param>
@@ -291,7 +291,7 @@ namespace Download_Repeater
             Properties.Settings.Default.proxyPass = textBoxPassword.Text;
 
             Properties.Settings.Default.Save();
-            writelog("Settings saveded");
+            writelog("Settings saved");
             MessageBox.Show("Settings Saved", "Save",MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
         #endregion
